@@ -1,0 +1,277 @@
+# SOME DESCRIPTIVE TITLE.
+# This file is put in the public domain.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Dotclear 2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-10-13 05:22+0200\n"
+"PO-Revision-Date: 2017-01-15 19:27+0100\n"
+"Last-Translator: Franck Paul <carnet.franck.paul@gmail.com>\n"
+"Language-Team: \n"
+"Language: lb\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.11\n"
+
+# Not found strings
+msgid "To content"
+msgstr "Op de Contenu"
+
+msgid "To menu"
+msgstr "Op de Menü"
+
+msgid "To search"
+msgstr "Op d'Sich"
+
+msgid "By"
+msgstr "Vun"
+
+msgid "by"
+msgstr "vun"
+
+msgid "on"
+msgstr "de"
+
+msgid "On"
+msgstr "De"
+
+msgid "Continue reading"
+msgstr "Lektür weidermaachen"
+
+msgid "no comments"
+msgstr "Kee Commentaire"
+
+msgid "one comment"
+msgstr "Een Commentaire"
+
+msgid "%d comments"
+msgstr "%d Commentairen"
+
+msgid "no trackbacks"
+msgstr "Keen Trackback"
+
+msgid "one trackback"
+msgstr "Een Trackback"
+
+msgid "%d trackbacks"
+msgstr "%d Trackbacken"
+
+msgid "no attachments"
+msgstr "Kee Fichier"
+
+msgid "one attachment"
+msgstr "Een Fichier"
+
+msgid "%d attachments"
+msgstr "%d Fichieren"
+
+msgid "previous entries"
+msgstr "viregt Artikelen"
+
+msgid "page"
+msgstr "Säit"
+
+msgid "of"
+msgstr "aus"
+
+msgid "next entries"
+msgstr "nächst Artikelen"
+
+msgid "Search"
+msgstr "Sichen"
+
+msgid "Your search for <em>%1$s</em> returned no result."
+msgstr "Är Sich no <em>%1$s</em> gëtt kee Resultat."
+
+msgid "Your search for <em>%1$s</em> returned <strong>%2$s</strong> result."
+msgstr "Är Sich no <em>%1$s</em> gëtt <strong>%2$s</strong> Resultat."
+
+msgid "Your search for <em>%1$s</em> returned <strong>%2$s</strong> results."
+msgstr "Är Sich no <em>%1$s</em> gëtt <strong>%2$s</strong> Resultaten."
+
+msgid "Home"
+msgstr "Haaptsäit"
+
+msgid "All keywords"
+msgstr "All Stéchwierder"
+
+msgid "Best of me"
+msgstr "Dat Bescht aus mir"
+
+msgid "Languages"
+msgstr "Sproochen"
+
+msgid "Categories"
+msgstr "Kategorien"
+
+msgid "Subcategories"
+msgstr "Ënnerkategorien"
+
+msgid "Archives"
+msgstr "Archive"
+
+msgid "Links"
+msgstr "Linken"
+
+msgid "Subscribe"
+msgstr "Abonnéieren"
+
+msgid "Entries feed"
+msgstr "Artikelen feed"
+
+msgid "Comments feed"
+msgstr "Commentairen feed"
+
+msgid "This blog's comments Atom feed"
+msgstr ""
+
+msgid "This category's entries Atom feed"
+msgstr ""
+
+msgid "This category's comments Atom feed"
+msgstr ""
+
+msgid "This post's comments feed"
+msgstr ""
+
+msgid "This post's comments Atom feed"
+msgstr ""
+
+msgid "Attachments"
+msgstr "Fichieren"
+
+msgid "Permalink"
+msgstr "Permalink"
+
+msgid "Comments"
+msgstr "Commentairen"
+
+msgid "Your comment"
+msgstr "Äre Commentaire"
+
+msgid "Your comment has been published."
+msgstr "Äre Commentaire gëtt verëffentlecht."
+
+msgid "Your comment has been submitted and will be reviewed for publication."
+msgstr ""
+
+msgid "Add a comment"
+msgstr "E Commentaire bäisetzen"
+
+msgid "Name or nickname"
+msgstr "Numm oder Virnumm"
+
+msgid "Email address"
+msgstr "Email Adress"
+
+msgid "Website"
+msgstr "Websäite"
+
+msgid "optional"
+msgstr "fakultativ"
+
+msgid "Comment"
+msgstr "Commentaire"
+
+msgid "Comments can be formatted using a simple wiki syntax."
+msgstr ""
+
+msgid "HTML code is displayed as text and web addresses are automatically converted."
+msgstr ""
+
+msgid "Remember me on this blog"
+msgstr "Erënnere mech um dëse Blog"
+
+msgid "preview"
+msgstr "Ausbléck"
+
+msgid "send"
+msgstr "Schécken"
+
+msgid "They posted on the same topic"
+msgstr ""
+
+msgid "Trackback URL"
+msgstr ""
+
+msgid "You must provide an author name"
+msgstr "Dir musst en Auteurnumm aginn"
+
+msgid "You must provide a comment"
+msgstr "Dir musst e Commentaire aginn"
+
+msgid "Email address is not valid"
+msgstr "Email Adress ass net gülteg"
+
+msgid "Document not found"
+msgstr "Dokument net fonnt"
+
+msgid "The document you are looking for does not exist."
+msgstr "De Dokument existéiert net."
+
+msgid "Powered by %s"
+msgstr ""
+
+msgid "Subscribe to"
+msgstr "Sech abonnéieren"
+
+msgid "What is an RSS feed?"
+msgstr ""
+
+msgid "RSS feed is a free blog summary. It provides content (either posts or comments) or summaries of content, together with links to the full versions, and other metadata. The last published items may then be read by your favorite RSS <a href=\"http://en.wikipedia.org/wiki/Aggregator\">aggregator</a>."
+msgstr ""
+
+msgid "Simply copy the following URL into your aggregator:"
+msgstr ""
+
+msgid "Password needed"
+msgstr ""
+
+msgid "You must give a password to access this area."
+msgstr ""
+
+msgid "Password:"
+msgstr ""
+
+msgid "You must provide a valid email address."
+msgstr ""
+
+msgid "Read"
+msgstr "Liesen"
+
+msgid "in"
+msgstr ""
+
+msgid "In"
+msgstr ""
+
+msgid "Page top"
+msgstr "Erop réckelen"
+
+msgid "toDay"
+msgstr "bis"
+
+msgid "FromDay"
+msgstr "vun"
+
+msgid "By category"
+msgstr "duerch Kategorie"
+
+msgid "By date"
+msgstr "Duerch Datum"
+
+msgid "By tag"
+msgstr "Duerch Tag"
+
+msgid "Blog menu"
+msgstr "Blog Menü"
+
+msgid "Etra menu"
+msgstr "Extra Menü"
+
+msgid "Blog info"
+msgstr "Blog Informatioun"
